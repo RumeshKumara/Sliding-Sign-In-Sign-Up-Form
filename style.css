@@ -261,6 +261,14 @@ form.sign-in-form {
 .container.sign-up-mode .right-panel .content {
   transform: translateX(0%);
 }
+#sign-in-btn:hover{
+  background-color: #ffffff;
+  color: #04befe;
+}
+#sign-up-btn:hover{
+  background-color: #ffffff;
+  color: #04befe;
+}
 
 .container.sign-up-mode .left-panel {
   pointer-events: none;
